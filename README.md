@@ -1,2 +1,2 @@
 # what-bootstrap
-Bootstrap 3 Example with Code
+Bootstrap 3 <a href="http://howtoteminal.com/what-bootstrap">Example with Code</a>
